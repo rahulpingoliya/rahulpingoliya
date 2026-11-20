@@ -1,26 +1,15 @@
+## 🛠️ Tech Stack
 
-# Hi there 👋 I'm Rahul Pingoliya
+![C](https://img.shields.io/badge/C-Programming-blue)
+![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue)
+![HTML](https://img.shields.io/badge/HTML-Web_Development-orange)
+![Python](https://img.shields.io/badge/Python-Learning-yellow)
 
-🎓 B.Tech ECE Student  
-💻 Aspiring Software Engineer  
-📍 Jaipur, Rajasthan, India
+## 📂 My Projects
 
-### About Me
-- Currently pursuing B.Tech in Electronics & Communication Engineering.
-- Learning programming and software development.
-- Interested in technology and building new projects.
+- [Student Marks Calculator in C](https://github.com/rahulpingoliya/student-marks-calculator-c)
+- [Simple Calculator in C](https://github.com/rahulpingoliya/simple-calculator-c)
 
-### Skills & Learning
-- C
-- C++
-- HTML
-- Python
-- MATLAB / Octave
+## 📈 My Coding Journey
 
-### Goals
-- Improve my coding skills.
-- Build practical projects.
-- Learn new technologies.
-
----
-Thanks for visiting my profile! 😊
+Currently learning programming and building beginner-friendly projects.
